@@ -49,3 +49,6 @@ FORMS    += widget.ui \
     forgetdialog.ui \
     repasswddialog.ui
 RC_FILE = DnfLogin.rc
+
+DISTFILES += \
+    manifest.xml
